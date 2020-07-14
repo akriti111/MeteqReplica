@@ -1,0 +1,93 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("bg.jpg");
+  background-position: 0% 9%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+* {
+  font-family: Berlin Sans FB;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link .navbar-brand {
+  color: white !important;
+}
+
+.navbar-brand {
+  font-size: 3vw !important;
+}
+.nav-link {
+  font-size: 1.3vm;
+}
+
+.content {
+  margin-top: 9vw;
+  margin-bottom: 35vw;
+}
+h1 {
+  font-size: 5vw !important;
+}
+p {
+  font-size: 18px;
+  text-align: center;
+}
+.parallax {
+  height: 30vw;
+  background-image: url("para.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.parallax2 {
+  height: 40vw;
+  background-image: url("para2.jpg");
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.btn1 {
+  float: left;
+  background-color: transparent !important;
+  color: white !important;
+}
+.btn2 {
+  float: left;
+  background-color: transparent !important;
+  color: white !important;
+}
+.btn3 {
+  float: center;
+  background-color: transparent !important;
+  color: white !important;
+}
+
+li {
+  list-style: none;
+}
+.footer {
+  background-image: url("footer.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+
